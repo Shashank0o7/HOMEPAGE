@@ -1,0 +1,48 @@
+@media (min-width: 1200px) {
+  .container {
+    width: 9000px;
+  }
+}
+.icon-center{
+  display: block;
+  margin:auto;
+}
+.img-responsive{
+	max-width: 100%;
+	height: auto;
+}
+.col-lg-3 col-md-3 col-sm-6{
+	border:10px solid black;
+}
+.offers{
+	border:10px solid black;
+	color: grey;
+	background:black;
+	text-align:center;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+/*.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: green;
+    color: green;
+}*/
+ul.nav a:hover { color: black !important;} 
+.navbar-brand span:hover { color: black !important; }
+/*#course{
+	border:2px solid black;
+	padding:0;
+ }*/
+ /*.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+}*/
+
+/*#course {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}*/
